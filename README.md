@@ -8,3 +8,9 @@
   ```
   npm run dev
   ```
+
+# Stack de tecnologías
+* React
+* React Router Dom
+* Typescript
+* Vite
